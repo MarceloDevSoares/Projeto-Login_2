@@ -88,7 +88,7 @@ div.campo > span {
 div.campo > input {
     background-color: var(--cor3);
     font-size: 1em;
-    width: calc(100% - 39.9px);
+    width: calc(100% - 39.8px);
     height: 100%;
     border: 0px;
     border-radius: 8px;
